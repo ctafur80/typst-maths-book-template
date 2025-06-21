@@ -21,8 +21,8 @@
 
 
 // COLOR THEME SELECTION. <---------- !!!!!!!!!!!
-// #let palette = light_palette
-#let palette = dark_palette
+#let palette = light_palette
+// #let palette = dark_palette
 
 
 
