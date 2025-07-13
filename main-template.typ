@@ -156,6 +156,7 @@
   // Transforms every instance. I just want in math mode.
   // show "sin": name => { "sen" }
   // show "sin": set text(font: "Open Sans", size: 9pt)
+  // show "lim": name => { "lím" }
 
 
 
