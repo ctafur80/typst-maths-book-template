@@ -99,7 +99,7 @@
   )
 
   // Maybe font: "Noto Sans Math" in the future.
-  show math.equation: set text(size: 8pt)
+  show math.equation: set text(size: 9pt)
   /*
   show math.equation: it => {
     if it.body.func() == math.sans[].func(){
