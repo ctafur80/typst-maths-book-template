@@ -89,7 +89,7 @@
 
 
   set text(
-    // font: "Noto Sans",
+    font: "Noto Sans",
     // size: 8pt,
     // tracking: 0.3pt,
     // font: "New Computer Modern",
