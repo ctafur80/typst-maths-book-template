@@ -91,7 +91,7 @@
   set text(
     font: "Noto Sans",
     size: 8pt,
-    // tracking: 0.3pt,
+    tracking: 0.3pt,
     // font: "New Computer Modern",
     // tracking: 0.2pt,
     // size: 10pt,
@@ -99,7 +99,7 @@
   )
 
   // Maybe font: "Noto Sans Math" in the future.
-  show math.equation: set text(size: 10pt)
+  // show math.equation: set text(size: 10pt)
   /*
   show math.equation: it => {
     if it.body.func() == math.sans[].func(){
